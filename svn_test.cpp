@@ -3,6 +3,6 @@
 
 int main()
 {
-	std::cout << "Welcome to the Syncro SVN Client\n";
+	std::cout << "Welcome to the Syncro SVN Client\n"; //comment added to test commits
 	return 0;
 }
